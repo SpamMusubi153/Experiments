@@ -1,0 +1,15 @@
+# Basic Data Handling and Display
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+matplotlib-inline==0.1.7
+
+# Computer Vision
+opencv-python==4.9.0.80
+
+# Machine Learning
+tensorflow==2.16.1
+
+# Machine Learning Inference Acceleration
+openvino==2024.1.0
+openvino-dev==2024.1.0
